@@ -1,0 +1,2 @@
+# Article 23
+The Union's action on the international scene, pursuant to this Chapter, shall be guided by the principles, shall pursue the objectives of, and be conducted in accordance with, the general provisions laid down in Chapter 1.

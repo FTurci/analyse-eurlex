@@ -1,0 +1,2 @@
+# Article 29
+The Council shall adopt decisions which shall define the approach of the Union to a particular matter of a geographical or thematic nature. Member States shall ensure that their national policies conform to the Union positions.

@@ -1,0 +1,2 @@
+# Article 33
+The Council may, on a proposal from the High Representative of the Union for Foreign Affairs and Security Policy, appoint a special representative with a mandate in relation to particular policy issues. The special representative shall carry out his mandate under the authority of the High Representative.

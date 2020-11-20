@@ -1,0 +1,2 @@
+# Article 8
+1.   The Union shall develop a special relationship with neighbouring countries, aiming to establish an area of prosperity and good neighbourliness, founded on the values of the Union and characterised by close and peaceful relations based on cooperation. 2.   For the purposes of paragraph 1, the Union may conclude specific agreements with the countries concerned. These agreements may contain reciprocal rights and obligations as well as the possibility of undertaking activities jointly. Their implementation shall be the subject of periodic consultation.

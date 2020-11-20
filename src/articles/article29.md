@@ -1,0 +1,2 @@
+# Article 30
+1.   Any Member State, the High Representative of the Union for Foreign Affairs and Security Policy, or the High Representative with the Commission's support, may refer any question relating to the common foreign and security policy to the Council and may submit to it, respectively, initiatives or proposals. 2.   In cases requiring a rapid decision, the High Representative, of his own motion, or at the request of a Member State, shall convene an extraordinary Council meeting within 48 hours or, in an emergency, within a shorter period.

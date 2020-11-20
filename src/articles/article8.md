@@ -1,0 +1,2 @@
+# Article 9
+In all its activities, the Union shall observe the principle of the equality of its citizens, who shall receive equal attention from its institutions, bodies, offices and agencies. Every national of a Member State shall be a citizen of the Union. Citizenship of the Union shall be additional to and not replace national citizenship.

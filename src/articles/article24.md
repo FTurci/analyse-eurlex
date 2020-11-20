@@ -1,0 +1,2 @@
+# Article 25
+The Union shall conduct the common foreign and security policy by: (a) defining the general guidelines; (b) adopting decisions defining: (i) actions to be undertaken by the Union; (ii) positions to be taken by the Union; (iii) arrangements for the implementation of the decisions referred to in points (i) and (ii); and by (c) strengthening systematic cooperation between Member States in the conduct of policy.

@@ -1,0 +1,2 @@
+# Article 54
+1.   This Treaty shall be ratified by the High Contracting Parties in accordance with their respective constitutional requirements. The instruments of ratification shall be deposited with the Government of the Italian Republic. 2.   This Treaty shall enter into force on 1 January 1993, provided that all the Instruments of ratification have been deposited, or, failing that, on the first day of the month following the deposit of the Instrument of ratification by the last signatory State to take this step.
