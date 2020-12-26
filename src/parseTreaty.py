@@ -93,7 +93,7 @@ for i, article in enumerate(f):
                     if substring[2]=='to': #if "Articles x to y"
                         for k in range(int(substring[1]), int(substring[3])+1):
                             refs.append(k)
-                    # elif substring[2]=='and': #if "Articles x and y"
+                    elif substring[2]=='and': #if "Articles x and y"
 
                 ref_num = substring[0]
                 print("==> Paragraph\n", p)
